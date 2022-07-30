@@ -63,8 +63,8 @@ author1:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
-    # keybase          <username>
+    download:        <url>
+    keybase:          <username>
     notion: https://www.notion.so/
 
 # Another author (optional)
