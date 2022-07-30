@@ -45,7 +45,8 @@ author:
   name:                Ruiz
   email:               jyk459@naver.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  github:              https://github.com/rrrUIzzz
+  twitter:             <username>
 
 # Add links to the sidebar.
 menu:
