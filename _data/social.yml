@@ -205,9 +205,9 @@ keybase:
   prepend: "https://keybase.io/" 
 notion:
   name: Notion
-  icon: icon-notion
+  icon: "/assets/icons/notionsicon.png"
   prepend: "https://www.notion.so/"
-  picture: "/assets/icons/notionsicon.png"
+
 download:
   name: Download
   icon: icon-box-add
