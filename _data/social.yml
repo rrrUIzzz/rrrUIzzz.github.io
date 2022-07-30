@@ -202,7 +202,11 @@ paypal:
 keybase:
   name: Keybase
   icon: icon-key
-  prepend: "https://keybase.io/"
+  prepend: "https://keybase.io/" 
+notion:
+  name: Notion
+  icon: icon-notion
+  prepend: "https://www.notion.so/"
 download:
   name: Download
   icon: icon-box-add
